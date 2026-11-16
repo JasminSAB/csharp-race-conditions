@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/RaceConditions/RaceConditions.csproj" />
+  <Project Path="tests/RaceConditions.Tests/RaceConditions.Tests.csproj" />
+  <Project Path="tools/RaceLab/RaceLab.csproj" />
+</Solution>
